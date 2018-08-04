@@ -1,8 +1,15 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 <h1 align="center">Toran Sahu</h1>
 <h4 align="center">Senior Software Engineer at Ethereal Machines</h4>
 <h5 ALIGN="center">B. Tech. (CSE) NIT, Raipur</h5>
-<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: [toran.sahu@yahoo.com](mailto:toran.sahu@yahoo.com) | [LinkedIn](https://linkedin.com/in/toransahu) | [Github](https://toransahu.github.io)</h5>
+<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: [toran.sahu@yahoo.com](mailto:toran.sahu@yahoo.com) | :l: [LinkedIn](https://linkedin.com/in/toransahu) | :octocat: <i class="fa fa-github"></i> [Github](https://toransahu.github.io)</h5>
+<body>
+[!<i class="fa fa-github"></i>
+</body>
 <hr>
 
 ## Summary
