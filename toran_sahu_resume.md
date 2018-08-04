@@ -26,30 +26,34 @@ understanding coupled with sharp analytical and problem-solving skill
 
 ## <ins>Experience</ins>
 #### Ethereal Machines, Bangalore — *Senior Software Engineer*  
-<sup>March 2018  -  Present</sup>  
+March 2018  -  Present
 
 - Enriched overall user experience by implementing smart features in the 3D printer & 5-axis Hybrid CNC machine  
 - Strategized and implemented Licensing of the 5-axis Hybrid CNC machine  
 - Designed, architect, & established an internal ERP system & CMS enabled website for the company  
 - Actively involved in the recruitment process
 
-**Infosys**, Pune — *Senior Systems Engineer*  
+#### Infosys, Pune — *Senior Systems Engineer*  
 July 2017  -  February 2018 (8 months)  
 - Reduced INTERSPEC to SELERANT data migration activity turnaround time by automating tasks
 through PL/SQL procedures.  
 
-**Infosys**, Pune — *Systems Engineer*  
+#### Infosys, Pune — *Systems Engineer*  
 June 2015  -  June 2017 (2 years 1 month)  
 - Enriched user-experience by enhancing the existing features of the application using Python.  
 - Optimized PL/SQL procedures, automated some data migration activities.  
 
 ## <ins>Education</ins>
 #### National Institute of Technology Raipur
-Bachelor of Technology (B.Tech.), Computer Science & Engineering, 2011 - 2015
+Bachelor of Technology (B.Tech.), Computer Science & Engineering (2011 - 2015)
 
 
-#### Jawahar Navodaya Vidyalaya, Malhar, Bilaspur (C.G.), 2010
-High School, Mathematics, 2003 - 2010
+#### Jawahar Navodaya Vidyalaya, Bilaspur, C.G.
+High School, Mathematics (2003 - 2010)
 
 ## <ins>Honors and Awards</ins>
-Insta Award, Insta Award
+#### Insta Award —  Infosys, Mar 2017
+Certification awarded in appreciation of exceeding the client’s expectations for the works assigned.
+
+#### Insta Award —  Infosys, Jul 2016
+Certification awarded in appreciation of quickly learning INTERSPEC tool, helping the team to build database queries & extraction process, hard-working, and dedicated nature.
