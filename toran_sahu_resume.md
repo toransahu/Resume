@@ -7,7 +7,7 @@
 <h4 align="center">Senior Software Engineer at Ethereal Machines</h4>
 <h5 ALIGN="center">B. Tech. (CSE) NIT, Raipur</h5>
 <h5 align="center">
-  <img src="mobile.svg" height="21" width="20" align="top">+91 8602431733 | 
+  <img src="phone.svg" height="16" width="16" align="top">+91 8602431733 | 
   <img src="gmail.svg" height="16" width="16" align="top"> <a href="mailto:toran.sahu@yahoo.com">toran.sahu@yahoo.com</a> | 
   <img src="linkedin.svg" height="16" width="16" align="top"> <a href="https://linkedin.com/in/toransahu">LinkedIn</a> | 
   <img src="github.svg" height="16" width="16" align="top"> <a href="https://toransahu.github.io">Github</a>
