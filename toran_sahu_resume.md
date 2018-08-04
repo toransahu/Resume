@@ -6,7 +6,7 @@
 <h1 align="center">Toran Sahu</h1>
 <h4 align="center">Senior Software Engineer at Ethereal Machines</h4>
 <h5 ALIGN="center">B. Tech. (CSE) NIT, Raipur</h5>
-<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: [toran.sahu@yahoo.com](mailto:toran.sahu@yahoo.com) | <img src="linkedin.svg" height="16" width="16"> <a href="https://linkedin.com/in/toransahu">LinkedIn</a> | :octocat: <i class="fa fa-github"></i> [Github](https://toransahu.github.io)</h5>
+<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: <a href="mailto:toran.sahu@yahoo.com">toran.sahu@yahoo.com</a>  | <img src="linkedin.svg" height="16" width="16" align="top"> <a href="https://linkedin.com/in/toransahu">LinkedIn</a> | :octocat: <i class="fa fa-github"></i> [Github](https://toransahu.github.io)</h5>
 <body>
 [!<i class="fa fa-github"></i>
 </body>
