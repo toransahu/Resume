@@ -26,7 +26,7 @@ understanding coupled with sharp analytical and problem-solving skill
 
 ## <ins>Experience</ins>
 #### Ethereal Machines, Bangalore — *Senior Software Engineer*  
-March 2018  -  Present  
+<sup>March 2018  -  Present</sup>  
 
 - Enriched overall user experience by implementing smart features in the 3D printer & 5-axis Hybrid CNC machine  
 - Strategized and implemented Licensing of the 5-axis Hybrid CNC machine  
