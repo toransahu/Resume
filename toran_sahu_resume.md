@@ -2,7 +2,7 @@
 <h1 align="center">Toran Sahu</h1>
 <h4 align="center">Senior Software Engineer at Ethereal Machines</h4>
 <h5 ALIGN="center">B. Tech. (CSE) NIT, Raipur</h5>
-<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: toran.sahu@yahoo.com | linkedin.com/in/toransahu | toransahu.github.io</h5>
+<h5 align="center"> :telephone_receiver: +91 8602431733 |  :email: [toran.sahu@yahoo.com](mailto:toran.sahu@yahoo.com) | [LinkedIn](https://linkedin.com/in/toransahu) | [Github](https://toransahu.github.io)</h5>
 <hr>
 
 ## Summary
